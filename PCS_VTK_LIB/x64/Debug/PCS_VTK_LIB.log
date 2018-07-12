@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/3/27 12:22:58。
+     1>项目“C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_VTK_LIB\PCS_VTK_LIB.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing pcsWindow.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /I"C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_PC_LIB" /I"D:\PCL 1.8.0\include\pcl-1.8" /I"D:\PCL 1.8.0\3rdParty\Boost\include\boost-1_59" /I"D:\PCL 1.8.0\3rdParty\Eigen\eigen3" /I"D:\PCL 1.8.0\3rdParty\FLANN\include" /I"D:\PCL 1.8.0\3rdParty\OpenNI2\Include" /I"D:\PCL 1.8.0\3rdParty\Qhull\include" /I"D:\PCL 1.8.0\3rdParty\VTK\include\vtk-7.0" /I"D:\Qt\Qt5.5.1\5.5\msvc2013_64\mkspecs\win32-msvc2013" /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtConcurrent /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtPrintSupport /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtOpenGL /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D PCS_VTK_LIB_LIB /D _SCL_SECURE_NO_WARNINGS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_pcsWindow.cpp pcsWindow.cpp
+         moc_pcsWindow.cpp
+         pcsWindow.cpp
+         正在生成代码...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\x64\Debug\PCS_VTK_LIB.lib" /NOLOGO /MACHINE:X64 x64\Debug\moc_pcsWindow.obj
+         x64\Debug\pcsWindow.obj
+         PCS_VTK_LIB.vcxproj -> C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\x64\Debug\PCS_VTK_LIB.lib
+     1>已完成生成项目“C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_VTK_LIB\PCS_VTK_LIB.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.27
