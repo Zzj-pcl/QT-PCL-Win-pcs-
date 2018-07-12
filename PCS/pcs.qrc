@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/PCS">
+    <file>Resources/png/point.jpg</file>
+    <file>Resources/png/soft .png</file>
+    <file>Resources/png/qidong.png</file>
+    <file>Resources/PCS/b.png</file>
+    <file>Resources/png/soft.jpg</file>
+    <file>Resources/png/statusbar.png</file>
+  </qresource>
+  <qresource prefix="/png">
+    <file>Resources/icon/open-file.ico</file>
+    <file>Resources/icon/save.ico</file>
+  </qresource>
+  <qresource prefix="/icon"/>
+</RCC>
