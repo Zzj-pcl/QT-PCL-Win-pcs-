@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/7/9 11:19:04。
+     1>项目“C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_IO_LIB\PCS_IO_LIB.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing LASDatashow.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\lib\cmake\Qt5Core /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\lib\cmake\Qt5Gui /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\lib\cmake\Qt5Concurrent /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\lib\cmake\Qt5Widgets /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\lib\cmake\Qt5OpenGL /I"D:\Qt\Qt5.5.1\5.5\msvc2013_64\mkspecs\winrt-x86-msvc2013" /I"D:\Qt\Qt5.5.1\5.5\msvc2013_64\mkspecs\win32-msvc2013" /I"C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_PC_LIB" /I"C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\include\pcl-1.8" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\Boost\include\boost-1_59" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\Eigen\eigen3" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\FLANN\include" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\OpenNI2\Include" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\Qhull\include" /I"D:\PCL 1.8.0" /I"C:\Program Files\PCL\3rdParty\VTK\include\vtk-7.0" /I"D:\Qt\Qt5.5.1\5.5\msvc2013_64\mkspecs\win32-msvc2013" /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtConcurrent /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtPrintSupport /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtOpenGL /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D PCS_IO_LIB_LIB /D _SCL_SECURE_NO_WARNINGS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_LASDatashow.cpp LASDatashow.cpp LASFile.cpp PCDFile.cpp PCS_File.cpp
+         moc_LASDatashow.cpp
+         LASDatashow.cpp
+         LASFile.cpp
+     1>LASFile.cpp(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         PCDFile.cpp
+         PCS_File.cpp
+         正在生成代码...
+     1>c:\users\y583\documents\visual studio 2013\projects\pcs\pcs_io_lib\lasfile.cpp(62): warning C4715: “LASFile::LoadFile”: 不是所有的控件路径都返回值
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\x64\Debug\PCS_IO_LIB.lib" /NOLOGO /MACHINE:X64 x64\Debug\moc_LASDatashow.obj
+         x64\Debug\LASDatashow.obj
+         x64\Debug\LASFile.obj
+         x64\Debug\PCDFile.obj
+         x64\Debug\PCS_File.obj
+         PCS_IO_LIB.vcxproj -> C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\x64\Debug\PCS_IO_LIB.lib
+     1>已完成生成项目“C:\Users\Y583\Documents\Visual Studio 2013\Projects\PCS\PCS_IO_LIB\PCS_IO_LIB.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:27.01
